@@ -74,7 +74,7 @@ The threshold is dynamically adjustable:
 - **Default:** 5 cm
 - **Adjustable range:** 2 cm to 100 cm
 
-![alt text](fig1.png) **Fig 1:** Ultrasonic sensor distance adjusting
+![alt text](fig1.png) 
 
 ### 6.2 Entry and Exit Control
 - `ir_Entry` sensor detects incoming vehicles.
@@ -85,7 +85,7 @@ When triggered:
 2. Gate opens or closes using servo motor.
 3. Event is logged in system memory.
 
-*(Please place your image here: `images/fig2.png`)* **Fig 2:** System availability
+![System availability](images/fig2.png)
 
 ### 6.3 Reservation System
 **Users can:**
@@ -96,7 +96,7 @@ When triggered:
 - Only **FREE** slots can be reserved.
 - **OCCUPIED** slots cannot be reserved.
 
-*(Please place your image here: `images/fig3.png`)* **Fig 3:** Shows reservation slots
+![Shows reservation slots](images/fig3.png)
 
 ## 💻 7. Web-Based Dashboard
 The system includes a unified web interface with two modes:
@@ -112,7 +112,7 @@ The system includes a unified web interface with two modes:
 - Simplified interface for general users
 - No system control privileges
 
-*(Please place your image here: `images/fig4.png`)* **Fig 4:** Shows User dashboard
+![Shows User dashboard](images/fig4.png)
 
 ### 7.2 Operator Dashboard
 **Features:**
@@ -126,9 +126,9 @@ The system includes a unified web interface with two modes:
 - Event log terminal
 - Slot override control
 
-*(Please place your image here: `images/fig5.png`)* **Fig 5:** Shows Operator dashboard
+![Shows Operator dashboard](images/fig5.png)
 
-*(Please place your image here: `images/fig6.png`)* **Fig 6:** Ultrasonic Telemetry Matrix
+![Ultrasonic Telemetry Matrix](images/fig6.png)
 
 ## 🎛️ 8. Sensor Calibration Feature
 A major enhancement in the system is the adjustable ultrasonic detection threshold.
@@ -176,11 +176,11 @@ The system uses REST APIs. Data is exchanged in JSON format for compatibility wi
 - Event logging system
 - WiFi-based remote access
 
-*(Please place your image here: `images/fig7.png`)* **Fig 7:** Shows Car Parking Model
+![Shows Car Parking Model](images/fig7.png)
 
-*(Please place your image here: `images/fig8.png`)* **Fig 8:** Shows gate Status and available spaces
+![Shows gate Status and available spaces](images/fig8.png)
 
-*(Please place your image here: `images/fig9.png`)* **Fig 9:** Car entering Parking premises
+![Car entering Parking premises](images/fig9.png)
 
 ## ✅ 12. Advantages
 - Reduces manual parking management
