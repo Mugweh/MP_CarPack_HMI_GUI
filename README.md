@@ -74,7 +74,7 @@ The threshold is dynamically adjustable:
 - **Default:** 5 cm
 - **Adjustable range:** 2 cm to 100 cm
 
-*(`images/fig1.png`)* **Fig 1:** Ultrasonic sensor distance adjusting
+![alt text](fig1.png) **Fig 1:** Ultrasonic sensor distance adjusting
 
 ### 6.2 Entry and Exit Control
 - `ir_Entry` sensor detects incoming vehicles.
