@@ -1,4 +1,4 @@
-markdown_content = """<div align="center">
+<div align="center">
   <h1>Smart Car Parking System (ESP32 IoT-Based System)</h1>
   <p><strong>Jomo Kenyatta University of Agriculture and Technology</strong></p>
   <p><strong>Course:</strong> Electronic and Computer Engineering | <strong>Unit:</strong> Microprocessor II (EEE2412)</p>
@@ -224,9 +224,3 @@ The system uses REST APIs. Data is exchanged in JSON format for compatibility wi
 
 ## 🏁 15. Conclusion
 The smart car parking system demonstrates an effective IoT-based solution for modern parking management challenges. By combining ESP32 microcontroller technology with ultrasonic sensing, servo automation, and a web-based interface, the system achieves real-time monitoring, user interaction, and administrative control. The addition of dual dashboards, logging systems, and adjustable sensor thresholds significantly improves flexibility, scalability, and operational accuracy. This makes the system suitable for deployment in small to medium-scale parking environments with potential for future expansion into smart city infrastructure.
-"""
-
-with open("README.md", "w", encoding="utf-8") as f:
-    f.write(markdown_content)
-
-print("README.md created successfully.")
