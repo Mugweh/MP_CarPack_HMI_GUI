@@ -5,18 +5,6 @@
   <p><strong>Supervisor:</strong> Dr. Kihato</p>
 </div>
 
-## 👥 Team Members (Group 3)
-
-| Name | Registration Number | Role |
-| :--- | :--- | :--- |
-| **Jackson Mugwe** | ENE212-0182/2021 | Lead and IoT Engineer |
-| **Victor Maina** | ENE212-0068/2022 | Testing Engineer |
-| **Samuel Mbathi** | ENE212-0073/2022 | Frontend Engineer |
-| **Mark Nyarima** | ENE212-0067/2022 | Backend Engineer |
-| **Jerome Pius** | ENE212-0060/2022 | Simulation Designer |
-
----
-
 ## 📖 1. Abstract
 This project presents an IoT-based smart car parking system developed using the ESP32 microcontroller. The system integrates ultrasonic sensors, infrared entry/exit detection, LED indicators, a servo-controlled gate barrier, and a web-based dashboard for real-time monitoring and control. The system provides two user roles: a general user interface for parking slot monitoring and reservation, and an operator interface for full system diagnostics, control, and calibration. The solution reduces congestion, improves parking efficiency, and enables remote management through WiFi connectivity.
 
