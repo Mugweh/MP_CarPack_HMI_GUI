@@ -74,7 +74,7 @@ The threshold is dynamically adjustable:
 - **Default:** 5 cm
 - **Adjustable range:** 2 cm to 100 cm
 
-*(Please place your image here: `images/fig1.png`)* **Fig 1:** Ultrasonic sensor distance adjusting
+*(`images/fig1.png`)* **Fig 1:** Ultrasonic sensor distance adjusting
 
 ### 6.2 Entry and Exit Control
 - `ir_Entry` sensor detects incoming vehicles.
@@ -125,8 +125,6 @@ The system includes a unified web interface with two modes:
 - Sensor threshold calibration
 - Event log terminal
 - Slot override control
-
-*(This section provides full administrative control of the parking system.)*
 
 *(Please place your image here: `images/fig5.png`)* **Fig 5:** Shows Operator dashboard
 
